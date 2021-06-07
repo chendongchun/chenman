@@ -1,0 +1,21 @@
+{
+    "name": "andy/chenman",
+    "description": "andy composer test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andy.Chen",
+            "email": "734097921@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php":">=5.6"
+    },
+    "autoload":{
+        "psr-4":{
+            "Andy\\":"src/andy"
+        }
+    }
+}
