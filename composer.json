@@ -1,6 +1,6 @@
 {
-    "name": "andy/chenman",
-    "description": "andy composer test",
+    "name": "andychen/chenman",
+    "description": "andychen composer test",
     "type": "library",
     "license": "MIT",
     "authors": [
